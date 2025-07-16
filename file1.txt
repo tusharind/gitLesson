@@ -1,0 +1,3 @@
+This is my git lesson at coditas. Here i'm adding another sentence.
+
+git github account repo clone git -clone "link" configuration modification git status 
