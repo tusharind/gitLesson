@@ -1,0 +1,3 @@
+commit is the snapshot of changes
+changes to an existing file is --> modified
+new file added and still not in staging area --> untracked
