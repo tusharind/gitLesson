@@ -13,4 +13,7 @@ function biggerFunction (closure) {
 
 biggerFunction()
 
-console.log("hi")
+
+console.log("chal be")
+
+
