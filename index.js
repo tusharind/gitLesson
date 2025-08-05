@@ -12,7 +12,4 @@ function biggerFunction (closure) {
 }
 
 biggerFunction()
-
-console.log("chal be")
-
-//hahaha
+made changes
